@@ -1,11 +1,11 @@
 
-<table>
+<table border="0">
   <tr>
     <td width="75%">
-      <th>Zhizhao Wen</th>
-      <tr>Undergraduate, Mechatronics Engineering</tr>
-      <tr>Zhejiang University, Hangzhou, China</tr>
-      <tr>Email：zhizhaowen@zju.edu.cn</tr>
+      <p><b>Zhizhao Wen</th>
+      <p><b>Undergraduate, Mechatronics Engineering</b></p>
+      <p><b>Zhejiang University, Hangzhou, China</b></p>
+      <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/pic.jpg" width="100%">      
