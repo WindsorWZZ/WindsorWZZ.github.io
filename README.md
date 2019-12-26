@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <table>
   <tr>
     <td width="75%">
@@ -13,7 +12,7 @@
     </td>
   </tr>
 </table>
-</body>
+
 
 ## Welcome to GitHub Pages
 
