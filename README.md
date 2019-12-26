@@ -1,8 +1,8 @@
 
-<table border="0">
+<table>
   <tr>
     <td width="75%">
-      <p><b>Zhizhao Wen</th>
+      <h1>Zhizhao Wen</h1>
       <p><b>Undergraduate, Mechatronics Engineering</b></p>
       <p><b>Zhejiang University, Hangzhou, China</b></p>
       <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
