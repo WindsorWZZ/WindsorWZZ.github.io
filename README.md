@@ -1,3 +1,17 @@
+<table>
+  <tr>
+    <td width="75%">
+      <h1>Zhizhao Wen</h1>
+      <tr>Undergraduate, Mechatronics Engineering<tr>
+      <tr>Zhejiang University, Hangzhou, China<tr>
+      <tr>Email：zhizhaowen@zju.edu.cn<tr>
+    </td>
+    <td width="25%">
+      <img src="/pic.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WindsorWZZ/WindsorWZZ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
