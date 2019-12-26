@@ -8,12 +8,12 @@
       <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/pic.jpg" width = "100" >      
+      <img src="/pic.jpg" width = "125" >      
     </td>
   </tr>
 </table>
 </div>
----
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WindsorWZZ/WindsorWZZ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
