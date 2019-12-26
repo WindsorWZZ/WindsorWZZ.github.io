@@ -1,18 +1,4 @@
-<div>
-<table border = "0">
-  <tr>
-    <td width="75%">
-      <h1>Zhizhao Wen</h1>
-      <p><b>Undergraduate, Mechatronics Engineering</b></p>
-      <p><b>Zhejiang University, Hangzhou, China</b></p>
-      <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
-    </td>
-    <td width="25%">
-      <img src="/pic.jpg" width = "200" >      
-    </td>
-  </tr>
-</table>
-</div>
+
 
 ## Welcome to GitHub Pages
 
