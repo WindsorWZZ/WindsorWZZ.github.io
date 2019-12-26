@@ -8,7 +8,7 @@
       <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/pic.jpg" width = "80" >      
+      <img src="/pic.jpg" width = "100" >      
     </td>
   </tr>
 </table>
