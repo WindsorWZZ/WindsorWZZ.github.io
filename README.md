@@ -6,7 +6,6 @@
       <p><b>Undergraduate, Mechatronics Engineering</b></p>
       <p><b>Zhejiang University, Hangzhou, China</b></p>
       <p><b>Email：zhizhaowen@zju.edu.cn</b></p>
-
     </td>
     <td width="25%">
       <img src="/pic.jpg" width = "80" >      
