@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="75%">
-      <h1>Zhizhao Wen</h1>
+      <th>Zhizhao Wen</th>
       <tr>Undergraduate, Mechatronics Engineering</tr>
       <tr>Zhejiang University, Hangzhou, China</tr>
       <tr>Email：zhizhaowen@zju.edu.cn</tr>
